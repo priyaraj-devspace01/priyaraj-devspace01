@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwNDAyNDEsIm5iZiI6MTc2NzAzOTk0MSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDIwMjU0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczODRiNzhiYTE5YWI5MDRjZDRlZTRiMTcwNGM2ZDNlYjVhODhhNGQ4MDRhNzQ2YjE1ZmI0ZjljY2U5OWY5MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NM7Xe_81WOTX7T_gOvFq5mhJCx6hk2BwygpfsLg10eI"  />
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwNDAyNDEsIm5iZiI6MTc2NzAzOTk0MSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDIwMjU0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczODRiNzhiYTE5YWI5MDRjZDRlZTRiMTcwNGM2ZDNlYjVhODhhNGQ4MDRhNzQ2YjE1ZmI0ZjljY2U5OWY5MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NM7Xe_81WOTX7T_gOvFq5mhJCx6hk2BwygpfsLg10eI"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left">I’m Priyaraj from India 🇮🇳<br><br>- 🔭 I’m currently working as a QA Intern, gaining hands-on industry experience<br>- 📚 I’m learning Java Full Stack Development, exploring **AI concepts**, and getting started with **Cloud technologies**<br>- ⚡ In my free time, I build small projects, practice problem-solving, and improve my understanding of core computer science fundamentals</h4>
+<p align="left">I’m Priyaraj from India 🇮🇳<br><br>- 🔭 I’m currently working as a QA Intern, gaining hands-on industry experience<br>- 📚 I’m learning Java Full Stack Development, exploring **AI concepts**, and getting started with **Cloud technologies**<br>- ⚡ In my free time, I build small projects, practice problem-solving, and improve my understanding of core computer science fundamentals</p>
 
 ###
 
@@ -82,5 +82,12 @@
 ###
 
 <img src="https://raw.githubusercontent.com/priyaraj-devspace01/priyaraj-devspace01/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyaraj-devspace01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaraj-devspace01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
