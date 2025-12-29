@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -70,5 +70,9 @@
 
 <div align="left">
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/priyaraj-devspace01/priyaraj-devspace01/output/snake.svg" alt="Snake animation" />
 
 ###
