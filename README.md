@@ -1,21 +1,110 @@
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3dzJtdzZ1M3lkOG9qdjA0a243dXJhdzVldG5raXpnYjdvMWNuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyaraj-devspace01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyaraj-devspace01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaraj-devspace01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyaraj-devspace01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyaraj-devspace01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyaraj-devspace01.priyaraj-devspace01" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=priyaraj-devspace01&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="left">
+  Hi 👋, I’m Priyaraj <br>
+  Aspiring Java Developer | Learning step by step
+</h1>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
+<p align="left">
+I’m Priyaraj from India 🇮🇳 <br><br>
+- 🔭 I’m currently working as a <b>QA Intern</b>, gaining hands-on industry experience <br>
+- 📚 I’m learning <b>Java Full Stack Development</b>, exploring <b>AI concepts</b>, and getting started with <b>Cloud technologies</b> <br>
+- ⚡ In my free time, I build small projects, practice problem-solving, and strengthen my understanding of core computer science fundamentals
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
+</div>
+
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+###
+
+<p align="left">
+Below are some projects I’m working on as part of my learning journey.  
+These projects focus on building strong fundamentals and real-world understanding.
+</p>
+
+<div align="left">
+
+- 🧪 <b>QA Automation Framework (Java + Selenium + TestNG)</b><br>
+  <i>Automated core web flows using Page Object Model, reusable utilities, and reporting.</i><br>
+  🔗 <a href="https://github.com/priyaraj-devspace01/your-repo-link">View Repository</a>
+
+<br>
+
+- ☕ <b>Core Java Practice Projects</b><br>
+  <i>Hands-on implementations of OOP, collections, exception handling, and multithreading.</i><br>
+  🔗 <a href="https://github.com/priyaraj-devspace01/your-repo-link">View Repository</a>
+
+<br>
+
+- 🌐 <b>Full Stack Learning Project</b><br>
+  <i>Building a basic full stack application with backend APIs and frontend integration.</i><br>
+  🔗 <a href="https://github.com/priyaraj-devspace01/your-repo-link">View Repository</a>
+
+<br>
+
+- ☁️ <b>Cloud & AI Experiments (Beginner)</b><br>
+  <i>Exploring cloud fundamentals and experimenting with AI tools and concepts.</i><br>
+  🔗 <a href="https://github.com/priyaraj-devspace01/your-repo-link">View Repository</a>
+
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=priyaraj-devspace01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
