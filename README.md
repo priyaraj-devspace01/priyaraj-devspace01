@@ -80,7 +80,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/priyaraj-devspace01/priyaraj-devspace01/output/snake.svg" alt="Snake animation" />
-
-###
